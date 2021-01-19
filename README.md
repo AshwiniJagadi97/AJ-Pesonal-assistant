@@ -1,0 +1,2 @@
+# AJ-Pesonal-assistant
+An AI personal assistant is a piece of software that understands verbal or written commands and completes task assigned by the client. It is an example of weak AI that is it can only execute and perform quest designed by the user. It can send emails on your behalf. It can play music for you. It can do Wikipedia searches for you. It is capable of opening websites like Google, Youtube, etc., in a web browser. It is capable of opening your code editor or IDE with a single voice command.
